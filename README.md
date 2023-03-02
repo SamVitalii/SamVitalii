@@ -4,4 +4,4 @@ Hello there! My name is Vitalii and I am a junior Node.js Developer currently pu
 
 Apart from that, I am a team player with great communication skills and I am always eager to learn new technologies. Feel free to contact me at samorodov.vitalii@gmail.com for any opportunities. Thank you for taking the time to visit my profile!
 
-https://github-readme-stats.vercel.app/api?username=SamVitalii)%5D(https://github.com/SamVitalii)
+[![Vitalii's github stats](https://github-readme-stats.vercel.app/api?username=SamVitalii)](https://github.com/SamVitalii)
